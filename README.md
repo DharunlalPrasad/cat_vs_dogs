@@ -1,4 +1,4 @@
-# cat_vs_dogs
+# Pets classifier (cats vs Dogs)
 
 Hi 
 
